@@ -24,9 +24,9 @@ files too.
 
 %description -l pl
 MetaMonitor jest prostym programem monitoruj±cym loggery systemowe
-(syslog, metalog) i wyswietlaj±cym nadchodz±ce komunikaty w dymkach.
-Mo¿esz tak¿e wybraæ dowolny inny plik z logami i filtrowaæ
-interesuj±ce ciê wiadomo¶ci za pomoc± wyra¿eñ regularnych.
+(syslog, metalog) i wy¶wietlaj±cym nadchodz±ce komunikaty w dymkach.
+Mo¿na tak¿e wybraæ dowolny inny plik z logami i filtrowaæ interesuj±ce
+wiadomo¶ci za pomoc± wyra¿eñ regularnych.
 
 %prep
 %setup -q
