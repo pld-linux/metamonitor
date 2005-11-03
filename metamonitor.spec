@@ -23,10 +23,10 @@ expression for parsing the log line, so you can watch other than log
 files too.
 
 %description -l pl
-MetaMonitor jest prostym programem monitorujacym loggery systemowe
-(syslog, metalog) i wyswietlajacym nadchodzace komunikaty w dymkach.
-Mozesz takze wybrac dowolny inny plik z logami i filtrowac
-interesujace cie wiadomosci za pomoca wyrazen regularnych.
+MetaMonitor jest prostym programem monitoruj±cym loggery systemowe
+(syslog, metalog) i wyswietlaj±cym nadchodz±ce komunikaty w dymkach.
+Mo¿esz tak¿e wybraæ dowolny inny plik z logami i filtrowaæ
+interesuj±ce ciê wiadomo¶ci za pomoc± wyra¿eñ regularnych.
 
 %prep
 %setup -q
