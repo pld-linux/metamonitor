@@ -1,5 +1,5 @@
 Summary:	MetaMonitor - log monitoring tool for KDE
-Summary(pl):	MetaMonitor - narzêdzie do monitorowanie logów dla KDE
+Summary(pl.UTF-8):   MetaMonitor - narzÄ™dzie do monitorowanie logÃ³w dla KDE
 Name:		metamonitor
 Version:	0.3
 Release:	0.1
@@ -22,11 +22,11 @@ message comes. You can specify the file to watch and a regular
 expression for parsing the log line, so you can watch other than log
 files too.
 
-%description -l pl
-MetaMonitor jest prostym programem monitoruj±cym loggery systemowe
-(syslog, metalog) i wy¶wietlaj±cym nadchodz±ce komunikaty w dymkach.
-Mo¿na tak¿e wybraæ dowolny inny plik z logami i filtrowaæ interesuj±ce
-wiadomo¶ci za pomoc± wyra¿eñ regularnych.
+%description -l pl.UTF-8
+MetaMonitor jest prostym programem monitorujÄ…cym loggery systemowe
+(syslog, metalog) i wyÅ›wietlajÄ…cym nadchodzÄ…ce komunikaty w dymkach.
+MoÅ¼na takÅ¼e wybraÄ‡ dowolny inny plik z logami i filtrowaÄ‡ interesujÄ…ce
+wiadomoÅ›ci za pomocÄ… wyraÅ¼eÅ„ regularnych.
 
 %prep
 %setup -q
