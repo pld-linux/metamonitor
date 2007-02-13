@@ -1,5 +1,5 @@
 Summary:	MetaMonitor - log monitoring tool for KDE
-Summary(pl.UTF-8):   MetaMonitor - narzędzie do monitorowanie logów dla KDE
+Summary(pl.UTF-8):	MetaMonitor - narzędzie do monitorowanie logów dla KDE
 Name:		metamonitor
 Version:	0.3
 Release:	0.1
