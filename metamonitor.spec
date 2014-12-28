@@ -10,7 +10,7 @@ Source0:	http://dl.sourceforge.net/metamonitor/%{name}-%{version}.tar.bz2
 URL:		http://metamonitor.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	kdelibs-devel >= 9:3.2.0
 BuildRequires:	rpmbuild(macros) >= 1.129
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
